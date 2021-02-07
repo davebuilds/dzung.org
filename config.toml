@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://dzung.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dzung"
 theme = "contrast-hugo"
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 10
