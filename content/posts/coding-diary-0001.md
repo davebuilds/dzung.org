@@ -1,5 +1,5 @@
 ---
-title: "Coding Diary 1: Understanding time zones and Python datetime's timezone"
+title: "Coding Diary 1: Time zones and Python datetime"
 date: 2021-01-30T21:24:30-08:00
 draft: false
 ---

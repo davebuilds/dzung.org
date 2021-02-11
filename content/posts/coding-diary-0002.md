@@ -1,10 +1,10 @@
 ---
-title: "Coding Diary 0001"
+title: "Coding Diary 2: A script to automate time blocking"
 date: 2021-01-31T17:50:19-08:00
 draft: true
 ---
 
-Today I've completed a Python script that automates scheduling my calendar. I feed the script my todo list, where each item contains an estimate column which estimates how much time do I need for the task.
+Today I've completed a Python script that automates scheduling my calendar. I feed the script my todo list, where each task contains an estimate column which estimates how much time do I need for the task.
 
 I've started practicing time blocking recently and I like it so far. My todo list is practically zero now. If something is important enough, I'll block some time in my calendar. If not I just toss it out.
 
