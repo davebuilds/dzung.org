@@ -2,6 +2,8 @@
 title: "Coding Diary 1: Time zones and Python datetime"
 date: 2021-01-30T21:24:30-08:00
 draft: false
+aliases:
+    - /posts/coding-diary-0001/
 ---
 
 After a decade of surviving without understanding time zone properly, I've managed to learn about the topic today. I also learnt how to use Python datetime with timezone information.
