@@ -18,12 +18,12 @@ It sounded easy-peasy and it just required some patient, right? Turned out it wa
 
 As we didn't create index for those columns, the query took 2 minute per table. I had to open many DataGrip query consoles and fired up a spreadsheet to keep track of the progress.
 
-And worse, half way done I noticed that there was a table where the column was `fruit_code`, not `fruit`. Shit! I must have missed similar columns. Now I had to restart the progress. And now it was a big mess.
+And worse, half way done I noticed that there was a table where the column was `fruit_code`, not `fruit`. Shoot! I must have missed similar columns. Now I had to restart the progress. And it was officially a big mess.
 
 If I had not made a shortcut, if I had put more thoughts and "over-engineered" it, I would've written a script that queried the catalog to find the tables containing `%fruit%`-like column, then ran the `select count(*)` for each of those tables. I would be able to run the select queries in parallel after I realized they were slow. If I made a mistake, I would be able to correct it by modifying and re-running the script. These were many benefits of a proper script, and I haven't talked anything about reusability.
 
-This was not the first time my short term solutions had caused more harm than good. There's nothing wrong with taking shortcuts when the time is tight. My mistakes are setting completion time expectation too tight, and letting that fake urgency affects my judgements.
+This was not the first time my short term solutions had caused more harm than good. There's nothing wrong with taking shortcuts when the timeline is tight. My mistakes are setting completion time expectation too tight, and letting that fake urgency affects my judgements.
 
-Let's talk about deadline. Almost all deadlines in American corporates are artificial. Teams delay their projects all the time, and even if they deliver it's usually a simplified version compared to their plan. If I had to simplify my job, it would be displaying some data from a database to some business persons' screens. What could go wrong if I take several more hours to complete a task? If a task were that important and urgent to them, they would have create a high severity ticket and escalate it.
+Let's talk about deadline. Almost all deadlines in American corporates are artificial. Teams delay their projects all the time, and even if they deliver it's usually a simplified version compared to their plan. If I had to simplify my job descriptions, it would be displaying some data from a database to some business persons' screens. What could go wrong if I take several more hours to complete a task? If a task were that important and urgent to them, they would have create a high severity ticket and escalate it.
 
 Urgency does have benefits. For me it could ignite some fire and make me focus easier. But be mindful when you start taking shortcuts. It's not the shortcuts that are harmful, it's the lazy thinking you start having when you say yes to shortcuts. Lazy thinking could lead you to the longer roads, and sometimes the wrong ones.
