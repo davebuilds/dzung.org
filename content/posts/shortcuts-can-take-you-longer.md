@@ -1,7 +1,9 @@
 ---
-title: "Shortcuts could be long"
+title: "Shortcuts can take you longer"
 date: 2021-02-24T22:58:07-08:00
 draft: false
+aliases:
+    - /posts/shortcuts-could-be-long/
 ---
 
 Yesterday my manager pinged me at 5pm about an urgent task. He's a big advocate of work life balance, so if he asks you something at 5pm, it must be important.
